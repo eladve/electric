@@ -42,8 +42,8 @@ Demos
 
 Tutorials
 
-* [Todos Basic](https://github.com/hyperfiddle/electric/blob/master/src-docs/user/todos_simple.cljc)
-* [Full-stack webview with datascript](https://github.com/hyperfiddle/electric/blob/master/src-docs/user/demo_4_webview.cljc)
+* [Todos Basic](https://github.com/hyperfiddle/electric/blob/master/src-docs/user/demo_todos_simple.cljc)
+* [Full-stack webview with datascript](https://github.com/hyperfiddle/electric/blob/master/src-docs/user/demo_webview.cljc)
 * [Routing integration - goog.history](https://github.com/hyperfiddle/electric/blob/master/src/contrib/electric_goog_history.cljc)
 * [Multiplayer chat with presence](https://gist.github.com/dustingetz/3e0761f51137cbf945b701c3ce9e3c74)
 * [SQL data backend](https://gist.github.com/dustingetz/1960436eb4044f65ddfcfce3ee0641b7)
